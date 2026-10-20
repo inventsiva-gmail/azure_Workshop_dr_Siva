@@ -1,0 +1,34 @@
+30-DAY BASIC AZURE LEARNING WORKSHOP — LICENSE TERMS
+Author: Dr. Sivakumar Madesan
+Contact: inventsiva@gmail.com
+
+1. PERSONAL USE (FREE)
+   You may use this workshop — including all lessons, labs, assessments, and
+   supporting materials — for your own personal learning and self-study, free
+   of charge. You may download and keep a personal copy.
+
+2. COMMERCIAL USE (PERMISSION REQUIRED)
+   Any commercial use requires prior WRITTEN permission from the author.
+   "Commercial use" includes, but is not limited to:
+     - Using the material in paid training courses, bootcamps, or workshops
+     - Using the material in corporate / employer-provided training programs
+     - Redistributing, reselling, or republishing the material for profit
+     - Including the material (in whole or in substantial part) in any
+       product or service offered for a fee
+   To request permission, email: inventsiva@gmail.com
+
+3. ATTRIBUTION
+   The author attribution ("30-Day Basic Azure Learning Workshop —
+   Author: Dr. Sivakumar Madesan") must be retained in any permitted copy
+   or redistribution.
+
+4. NO MICROSOFT ENDORSEMENT
+   This is an independent educational workshop. It is not endorsed,
+   sponsored, or certified by Microsoft. "Azure", "Microsoft Entra", and
+   related names are trademarks of the Microsoft group of companies.
+
+5. DISCLAIMER
+   The material is provided "as is", without warranty of any kind. Cloud
+   platform interfaces, pricing, and free-tier terms change over time;
+   always confirm current details against the official Microsoft
+   documentation before acting on them.
